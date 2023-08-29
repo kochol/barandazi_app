@@ -1,0 +1,10 @@
+
+# Folders
+Code/.vs
+Code/App/bin
+Code/App/obj
+Code/Blazor/bin
+Code/Blazor/obj
+
+# Files
+*.csproj.user
